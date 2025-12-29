@@ -21,7 +21,7 @@ Authentication is implemented in the mobile version.
 For MVP demo, authentication is disabled due to mobile web limitations.
 
 ## 👩‍💻 Developed By
-HackWaves
+Hackwaves
 Dhanu Shree NV
 Pavithra A
 Jasmitha S
